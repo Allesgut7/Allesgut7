@@ -41,5 +41,70 @@ I work across the full data lifecycle — from data collection and preprocessing
 ## ⏱ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 71.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 157 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                141 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌆 Daytime                174 commits         ████████████░░░░░░░░░░░░░   46.15 % 
+🌃 Evening                60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   91 commits          ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Tuesday                  36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Wednesday                76 commits          █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   86 commits          ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Saturday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         10 repos            █████████████░░░░░░░░░░░░   52.63 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Allesgut7/Allesgut7/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/12/2025 04:23:15 UTC
 <!--END_SECTION:waka-->
 
