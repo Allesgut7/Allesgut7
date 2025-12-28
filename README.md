@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'am Galih
 
 <!--
 **Allesgut7/Allesgut7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,5 +37,3 @@ I work across the full data lifecycle — from data collection and preprocessing
 #### Let's Connect
 
 ![https://www.instagram.com/galh.ds/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.kaggle.com/galihdwis](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![https://www.linkedin.com/in/galihdwis/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-
-#### ggg
