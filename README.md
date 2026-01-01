@@ -49,7 +49,7 @@ I work across the full data lifecycle — from data collection and preprocessing
 
 > 📦 71.6 kB Used in GitHub's Storage 
  > 
-> 🏆 157 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,6 +105,6 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Allesgut7/Allesgut7/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 00:54:53 UTC
+ Last Updated on 01/01/2026 01:00:19 UTC
 <!--END_SECTION:waka-->
 
