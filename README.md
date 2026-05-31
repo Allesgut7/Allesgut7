@@ -43,13 +43,13 @@ I work across the full data lifecycle — from data collection and preprocessing
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.02%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.05%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 103.4 kB Used in GitHub's Storage 
+> 📦 103.5 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2026
+> 🏆 30 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,6 +57,37 @@ I work across the full data lifecycle — from data collection and preprocessing
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                152 commits         █████████░░░░░░░░░░░░░░░░   37.16 % 
+🌆 Daytime                182 commits         ███████████░░░░░░░░░░░░░░   44.50 % 
+🌃 Evening                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   91 commits          ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Tuesday                  36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Wednesday                84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Thursday                 61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Friday                   89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Saturday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -74,6 +105,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Allesgut7/Allesgut7/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2026 01:55:28 UTC
+ Last Updated on 31/05/2026 02:10:11 UTC
 <!--END_SECTION:waka-->
 
