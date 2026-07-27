@@ -53,9 +53,9 @@ I work across the full data lifecycle — from data collection and preprocessing
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -105,6 +105,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Allesgut7/Allesgut7/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 01:30:47 UTC
+ Last Updated on 27/07/2026 01:48:35 UTC
 <!--END_SECTION:waka-->
 
