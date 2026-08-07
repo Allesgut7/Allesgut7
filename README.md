@@ -41,8 +41,6 @@ I work across the full data lifecycle — from data collection and preprocessing
 ## ⏱ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.27%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -57,43 +55,6 @@ I work across the full data lifecycle — from data collection and preprocessing
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                260 commits         ████████░░░░░░░░░░░░░░░░░   33.77 % 
-🌆 Daytime                330 commits         ███████████░░░░░░░░░░░░░░   42.86 % 
-🌃 Evening                164 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Tuesday                  93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Wednesday                148 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Friday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Saturday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Sunday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -111,6 +72,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Allesgut7/Allesgut7/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 01:21:40 UTC
+ Last Updated on 07/08/2026 02:01:51 UTC
 <!--END_SECTION:waka-->
 
