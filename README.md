@@ -47,9 +47,9 @@ I work across the full data lifecycle — from data collection and preprocessing
 
 **🐱 My GitHub Data** 
 
-> 📦 365.2 kB Used in GitHub's Storage 
+> 📦 365.3 kB Used in GitHub's Storage 
  > 
-> 🏆 393 Contributions in the Year 2026
+> 🏆 394 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,21 +60,21 @@ I work across the full data lifecycle — from data collection and preprocessing
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                260 commits         ████████░░░░░░░░░░░░░░░░░   32.75 % 
-🌆 Daytime                332 commits         ██████████░░░░░░░░░░░░░░░   41.81 % 
-🌃 Evening                186 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+🌞 Morning                261 commits         ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌆 Daytime                332 commits         ██████████░░░░░░░░░░░░░░░   41.76 % 
+🌃 Evening                186 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Wednesday                149 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Thursday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Friday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Sunday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Monday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Tuesday                  98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Wednesday                149 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Thursday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Friday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Sunday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 ```
 
 
@@ -111,6 +111,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Allesgut7/Allesgut7/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 02:03:06 UTC
+ Last Updated on 01/09/2026 02:24:38 UTC
 <!--END_SECTION:waka-->
 
