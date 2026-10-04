@@ -47,7 +47,7 @@ I work across the full data lifecycle — from data collection and preprocessing
 
 **🐱 My GitHub Data** 
 
-> 📦 446.4 kB Used in GitHub's Storage 
+> 📦 446.5 kB Used in GitHub's Storage 
  > 
 > 🏆 409 Contributions in the Year 2026
  > 
@@ -111,6 +111,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Allesgut7/Allesgut7/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 02:41:17 UTC
+ Last Updated on 04/10/2026 03:12:32 UTC
 <!--END_SECTION:waka-->
 
