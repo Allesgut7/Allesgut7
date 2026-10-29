@@ -43,13 +43,13 @@ I work across the full data lifecycle — from data collection and preprocessing
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.05%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 446.5 kB Used in GitHub's Storage 
+> 📦 543.0 kB Used in GitHub's Storage 
  > 
-> 🏆 409 Contributions in the Year 2026
+> 🏆 464 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,21 +60,21 @@ I work across the full data lifecycle — from data collection and preprocessing
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                261 commits         ████████░░░░░░░░░░░░░░░░░   32.18 % 
-🌆 Daytime                348 commits         ███████████░░░░░░░░░░░░░░   42.91 % 
-🌃 Evening                186 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+🌞 Morning                269 commits         ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌆 Daytime                380 commits         ███████████░░░░░░░░░░░░░░   43.88 % 
+🌃 Evening                201 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Tuesday                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Wednesday                149 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Thursday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Friday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Sunday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Monday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Tuesday                  111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Wednesday                193 commits         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Thursday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Friday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Saturday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Sunday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 ```
 
 
@@ -111,6 +111,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Allesgut7/Allesgut7/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 02:52:12 UTC
+ Last Updated on 29/10/2026 03:15:04 UTC
 <!--END_SECTION:waka-->
 
